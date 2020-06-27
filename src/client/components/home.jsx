@@ -53,6 +53,7 @@ class Home extends React.Component {
 
         <section styleName="custom.header">
           <h2>
+            This is a public update
             <span>Hello from </span>
             <a href="https://github.com/electrode-io">
               {"Electrode"}
